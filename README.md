@@ -1,4 +1,4 @@
-# sports
+# Sports
 
 Development requests for the Denver Post sports department.
 
